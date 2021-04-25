@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Jagjit Singh
+- 👀 I’m interested in Web Development and Mobile App Development.
+- 💞️ I am actively seeking out opportunities to work with companies/agencies/individuals.
+- 📫 You can reach me through my email address: kalerjagjit22@gmail.com
